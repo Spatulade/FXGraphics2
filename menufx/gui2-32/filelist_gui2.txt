@@ -827,3 +827,5 @@ crspell_16/melee_debuff/freeze_melee_std.png
 crspell_16/melee_debuff/freeze_melee_dis.png
 crspell_16/melee_debuff/slowdn_melee_std.png
 crspell_16/melee_debuff/slowdn_melee_dis.png
+message_32/rpanel_msg_scavenge_act.png
+message_32/rpanel_msg_scavenge_std.png
